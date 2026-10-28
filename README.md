@@ -1,1 +1,2 @@
-# AyrikMatematik5.HaftaOdev
+# Ayrık Matematik 5.Hafta Ödev
+Ayrık matematik 5. hafta kapsamında kartezyen çarpım, bağıntılar ve özellikleri, denklik bağıntısı ile sıralama bağıntısı konularını kapsayan ödev çalışmamı ekledim. İçerikte bağıntıların matris ve diyagram gösterimleri, mod 7 denklik sınıfları, bölünebilme bağıntısı üzerinden sıralama incelemesi ve Hesse diyagramı örnekleri yer alıyor. Özellikle denklik sınıflarının kümeyi nasıl bölümlendirdiğini ve ters-simetri gibi ayrımları örnekler üzerinden ele aldım. Konuyu hem teorik tanımlarla hem de çözümlü sorularla destekleyerek notları düzenli tuttum. İlerleyen haftalarda bu temelin üzerine inşa edilecek konular için sağlam bir referans oldu.
